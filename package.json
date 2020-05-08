@@ -1,6 +1,6 @@
 {
   "name": "nodejs-base64-converter",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "base64 encode/decode methods in nodejs",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,14 @@
     "nodejs",
     "base64",
     "encode",
-    "decode"
+    "decode",
+    "nodejs-modules",
+    "nodejs-library",
+    "base64",
+    "base64-encoding",
+    "base64-decoding",
+    "javascript",
+    "buffer"
   ],
   "author": "Manish Prajapati",
   "license": "ISC",
