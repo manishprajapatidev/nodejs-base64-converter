@@ -1,6 +1,6 @@
 {
   "name": "nodejs-base64-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "base64 encode/decode methods in nodejs",
   "main": "index.js",
   "scripts": {
