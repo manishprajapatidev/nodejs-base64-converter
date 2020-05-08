@@ -4,11 +4,11 @@
   "description": "base64 encode/decode methods in nodejs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/manprajapat/base64-encode-decode-methods.git"
+    "url": "git+https://github.com/manprajapat/nodejs-base64-converter.git"
   },
   "keywords": [
     "nodejs",
@@ -19,7 +19,7 @@
   "author": "Manish Prajapati",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/manprajapat/base64-encode-decode-methods/issues"
+    "url": "https://github.com/manprajapat/nodejs-base64-converter/issues"
   },
-  "homepage": "https://github.com/manprajapat/base64-encode-decode-methods#readme"
+  "homepage": "https://github.com/manprajapat/nodejs-base64-converter#readme"
 }
