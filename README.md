@@ -18,3 +18,8 @@ Install from command line:
 ```
 npm i --save nodejs-base64-converter
 ```
+
+## Test ##
+```
+npm test
+```
