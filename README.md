@@ -1,5 +1,5 @@
 # base64 encode/decode methods in nodejs
-
+[![npm version](https://badge.fury.io/js/nodejs-base64-converter.svg)](https://badge.fury.io/js/nodejs-base64-converter)
 The ultimate small js library for the base64 encode/decode conversion in Node.js.
 
 ## Usage ##
