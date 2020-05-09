@@ -1,6 +1,7 @@
 # base64 encode/decode methods in nodejs
 [![Build Status](https://travis-ci.org/manprajapat/nodejs-base64-converter.svg?branch=master)](https://travis-ci.org/manprajapat/nodejs-base64-converter) [![npm version](https://badge.fury.io/js/nodejs-base64-converter.svg)](https://badge.fury.io/js/nodejs-base64-converter)
-The ultimate small js library for the base64 encode/decode conversion in Node.js.
+
+###### The ultimate small js library for the base64 encode/decode conversion in Node.js.
 
 ## Usage ##
 
