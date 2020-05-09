@@ -11,6 +11,12 @@ var nodeBase64 = require('nodejs-base64-converter');
 console.log(nodeBase64.encode("test text")); //dGVzdCB0ZXh0
 console.log(nodeBase64.decode("dGVzdCB0ZXh0")); //test text
 ```
+Other methods
+
+```
+nodeBase64.urlEncode(unencoded);
+nodeBase64.urlDecode(encoded);
+```
 
 ## Installation ##
 
